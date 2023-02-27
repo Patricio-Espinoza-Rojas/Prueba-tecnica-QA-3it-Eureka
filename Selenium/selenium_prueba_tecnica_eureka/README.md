@@ -56,7 +56,7 @@ Listo para Mac!
 
 ## Uso
 ***
-Para poder ejecutar los test con selenium si están en visual studio code deben seleccionar en el menu principal del IDE donde dice **testing** es un ícono con forma de Matraz Erlenmeyer **esta ubicado abajo de las extensiones** y en el test padre es decir el que los contiene a todos seleccionar **run test** que esta al lado derecho con un **simbolo de play**, y las pruebas se comenzarán a ejecutar, si siguieron las intrucciones y está todo correctamente instalado se debiese ejecutar sin ningún problema.
+Para poder ejecutar los test con selenium, se debe abrir la carpeta de repositorio **Selenium_prueba_tecnica_eureka** con algún IDE **es importante señalar que todos los archivos dentro de la carpeta señalada deben estar abiertos con el IDE a elección y en el mismo  orden en el que se encuentran en el repositorio**, una vez hecho lo anterior si están utilizando visual studio code deben seleccionar en el menu principal del IDE donde dice **testing** es un ícono con forma de Matraz Erlenmeyer **esta ubicado abajo de las extensiones** y en el test padre es decir el que los contiene a todos seleccionar **run test** que esta al lado derecho con un **simbolo de play**, y las pruebas se comenzarán a ejecutar, si siguieron las intrucciones y está todo correctamente instalado se debiese ejecutar sin ningún problema.
 
 ## Contribuir
 ***
