@@ -13,17 +13,23 @@ El segundo request se debe ocupar este link https://api.cmfchile.cl/api-sbifv3/r
 
 ## Dentro de cada carpeta encontra el README tanto de selenium como de postman, explicando en que  consisten las pruebas y como ejecutarlas.
 
-Instalación
+## Instalación
+***
 Aquí se proporcionan instrucciones sobre cómo instalar el proyecto o sus dependencias.
 
-Uso
+## Uso
+***
 Aquí se explica cómo utilizar el proyecto. Se deben proporcionar ejemplos de uso y capturas de pantalla si es posible.
 
-Contribuir
-Si desea contribuir al proyecto, se debe indicar cómo hacerlo. Es importante proporcionar información sobre cómo contribuir al proyecto, cómo enviar solicitudes de extracción y cómo se revisarán y aprobarán las solicitudes de extracción.
+## Contribuir
+***
+Si desea contribuir al proyecto, indicar algun metodo que funcione de mejor manera o corregir alguna línea de código que usted considere que puede mejorar el proyecto lo puede hacer, realizando el commit pertinente se revisará y aprobará para ser mergeado.
 
-Licencia
-Aquí se debe incluir la licencia bajo la cual se distribuye el proyecto. Es importante indicar si el proyecto es de código abierto y si se permiten contribuciones y distribuciones.
+## Licencia
+***
 
-Contacto
-Aquí se proporciona información sobre cómo ponerse en contacto con el autor o los autores del proyecto. Puede incluir direcciones de correo electrónico, enlaces a perfiles de redes sociales o cualquier otra información relevante.
+## Contacto
+***
+Puede ponerse en contacto mediante mail escribiendo al (mis datos de contacto se encuentran en mi perfil de github) indicando en el asunto **prueba técnica selenium github 2023**.
+
+**SE AGRADECERIA QUE PUDIESE DARLE UNA ESTRELLA AL REPOSITORIO**
