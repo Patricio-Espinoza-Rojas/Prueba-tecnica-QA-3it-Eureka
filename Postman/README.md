@@ -60,6 +60,6 @@ Si desea contribuir al proyecto, indicar algun metodo que funcione de mejor mane
 ***
 
 Contacto
-Puede ponerse en contacto mediante mail escribiendo al mail (mis datos de contacto se encuentran en mi perfil de github) indicando en el asunto **prueba tecnica selenium github 2023**.
+Puede ponerse en contacto mediante mail escribiendo al mail (mis datos de contacto se encuentran en mi perfil de github) indicando en el asunto **prueba tecnica postman github 2023**.
 
 **SE AGRADECERIA QUE PUDIESE DARLE UNA ESTRELLA AL REPOSITORIO**
