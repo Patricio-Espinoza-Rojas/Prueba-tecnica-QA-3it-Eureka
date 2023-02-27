@@ -5,8 +5,8 @@
 ***
 Este ejercicio consiste en realizar un test automático sobre el sitio web del banco central en el cual se utilizará el siguiente link **http://www.bcentral.cl** , las pruebas deben hacer lo siguiente:
 - **Abrir el sitio web del banco central**
-- **Mostrar la cantidad de etiquetas <h1> e imprimir los resultados por consola**
-- **Contar las etiquetas de párrafo (<p>) que existen en el sitio**
+- **Mostrar la cantidad de etiquetas (h1) e imprimir los resultados por consola**
+- **Contar las etiquetas de párrafo (p) que existen en el sitio**
 - **Validar que el título del sitio sea inicio - Banco Central de Chile si lo es debe indicar Título Correcto y si no lo es    debe mostrar Error en el título**
 - **indicar el valor encontrado en la UF, UTM, Dólar observado y Euro y mostrarlo por consola**
 Estas pruebas se realizarán con Java , Selenium y Cucumber.
