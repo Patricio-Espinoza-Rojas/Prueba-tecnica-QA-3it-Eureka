@@ -1,0 +1,79 @@
+{
+	"info": {
+		"_postman_id": "9d533ab0-7a0b-4f05-9823-8cb8595482b0",
+		"name": "Request 2 Euro día actual",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19168073"
+	},
+	"item": [
+		{
+			"name": "Euro dia actual",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Respuesta correcta 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"pm.test(\"Content-Type is present\", function () {",
+							"    pm.response.to.have.header(\"Content-Type\");",
+							"});",
+							"",
+							"pm.test(\"validacion de atributo texto con nombre Euro\", () => {",
+							"    const responseJson = pm.response.json();",
+							"    pm.expect(pm.response.text()).to.include(\"Euros\");",
+							"});",
+							"",
+							"pm.test(\"validacion que no existen Valores nulos\", function () {",
+							"var jsonData = pm.response.json();",
+							"    pm.expect(jsonData.valor).not.eql(null);",
+							"    pm.expect(jsonData.fecha).not.eql(null);",
+							"});",
+							"",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "apikey"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{Global}}/euro?apikey={{API KEY}}&formato=json",
+					"host": [
+						"{{Global}}"
+					],
+					"path": [
+						"euro"
+					],
+					"query": [
+						{
+							"key": "apikey",
+							"value": "{{API KEY}}"
+						},
+						{
+							"key": "formato",
+							"value": "json"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
