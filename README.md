@@ -2,7 +2,7 @@
 
 ## Descripción
 Esta es la prueba técnica para los QA Automatizadores del proyecto Eureka de la empresa 3it. En este repositorio de github encontraran dos carpetas una con el nombre de selenium que corresponde a la primera fase de la prueba y la otra con el nombre de postman que corresponde a la segunda fase de la prueba.
-**En el repositorio encontraran un archivo el cual se llama *Prueba QA Automatizador Eureka 3IT* en el que encontraran la prueba técnica en formato pdf en donde podran ver las preguntas y ejercicios de esta.
+**En el repositorio encontraran un archivo el cual se llama *Prueba QA Automatizador Eureka 3IT* en el que encontraran la prueba técnica en formato pdf en donde podran ver las preguntas y ejercicios de esta**.
 
 #### Fase 1
 la primera fase se debe automatizar pruebas para la pagina web del banco central en la que se debe mostrar la pagina osea se debe abrir automaticamente llevando a la pagina de inicio, y luego obtener cantidad de etiquetas <H1> e imprimir los textos existentes en ellas, contar la cantidad de parrafos es decir las etiquetas <p> que existen en el sitio, validar que el título del sitio sea **inicio - Banco Central de Chile** y si es asi debe imprimir consola titulo correcto y de no ser asi debe mostrar **error de titulo**. y por ultimo indicar el valor encontrado de la **UF, UTM, Dólar observado y Euro**.
